@@ -1,0 +1,14 @@
+#footer{
+background:#089888;
+color: #05574d;
+width:100%;
+margin: 0 auto;
+font-size: 80%;
+line-height: 40px;
+text-align: center;
+}
+#footer h1{
+  float: left;
+  font-size: 15px;
+  color: #05574d;
+}
